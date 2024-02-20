@@ -20,7 +20,6 @@ This is the attached pivot table.
 | (blank)         |                     |
 | Grand Total     | 226872              |
 
-Here is the attached graph
-
+Here is the attached ![Graph](https://github.com/dbdesign-students-spring2024/3-spreadsheet-analysis-VideoStorms/blob/main/graph.jpeg)
 
 
