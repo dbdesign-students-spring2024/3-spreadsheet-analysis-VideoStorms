@@ -7,4 +7,20 @@ Performing analysis on the data was challenging as there are no strict numbers, 
 
 This is the attached pivot table.
 
+| Row Labels      | Count of CRIME_TYPE |
+|-----------------|---------------------|
+| PROPERTY        | 66525               |
+| VIOLENT         | 58648               |
+| MISC            | 41883               |
+| VEHICLE-RELATED | 18160               |
+| DRUG-RELATED    | 16297               |
+| FINANCIAL       | 9651                |
+| WEAPON          | 9614                |
+| SEXUAL          | 6094                |
+| (blank)         |                     |
+| Grand Total     | 226872              |
+
+Here is the attached graph
+
+
 
