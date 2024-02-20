@@ -31,11 +31,11 @@ The dataset was pretty clean already.
 
 The column that caused the most trouble was of the police descriptions of the crimes because there were commas in them which made splitting up the data in the CSV by commas using the `.split()` function into a list challenging. I had to replace any commas in that column with dashes so that I could proceed with the scrubbing.
 
-There were also a few missing values, usually noted as `null` or `0` in my dataset. I replaced them all with the string "NaN" for consistency. Even then, there were not many missing values present in my data.
+There were also a few missing values, usually noted as `null` or `0` in our dataset. I replaced them all with the string "NaN" for consistency. Even then, there were not many missing values present in our data.
 
-To further clean and organize my data, I deleted and added several columns. I deleted columns such as "PD_CD", "LAW CODE", etc which contained codes that are most likely useful to police departments but not so much to the general public. I also deleted a column called "OFSC_DESC" with categorizations of the crime types since there is also a "PD_DESC" column with the police's descriptions of the arrests, likely done by the police department. But even then, there were 63 different categories of crimes in the "OFSC_DESC" column. While useful surely to the police, I decided to re-organize these crime types into 8 broader categories instead: violent, property, sexual, financial, weapon-related, drug-related, vehicle-related, and miscellaneous crimes. I also added a column with the season in which the arrest occurred to categorize the column with the exact dates of arrest in each row.
+To further clean and organize our data, I deleted and added several columns. I deleted columns such as "PD_CD", "LAW CODE", etc which contained codes that are most likely useful to police departments but not so much to the general public. I also deleted a column called "OFSC_DESC" with categorizations of the crime types since there is also a "PD_DESC" column with the police's descriptions of the arrests, likely done by the police department. But even then, there were 63 different categories of crimes in the "OFSC_DESC" column. While useful surely to the police, I decided to re-organize these crime types into 8 broader categories instead: violent, property, sexual, financial, weapon-related, drug-related, vehicle-related, and miscellaneous crimes. I also added a column with the season in which the arrest occurred to categorize the column with the exact dates of arrest in each row.
 
-Below are the links to my data files:
+Below are the links to our data files:
 
 [Original Raw Data](https://github.com/dbdesign-students-spring2024/3-spreadsheet-analysis-mayanesen/blob/main/data/NYPD_Arrest_Data__Year_to_Date__20240213.csv)
 
