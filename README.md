@@ -37,9 +37,9 @@ To further clean and organize our data, I deleted and added several columns. I d
 
 Below are the links to our data files:
 
-[Original Raw Data](https://github.com/dbdesign-students-spring2024/3-spreadsheet-analysis-mayanesen/blob/main/data/NYPD_Arrest_Data__Year_to_Date__20240213.csv)
+[Original Raw Data](https://github.com/dbdesign-students-spring2024/3-spreadsheet-analysis-VideoStorms/blob/main/data/NYPD_Arrest_Data__Year_to_Date__20240213.csv)
 
-[Munged Data](https://github.com/dbdesign-students-spring2024/3-spreadsheet-analysis-mayanesen/blob/main/data/clean_data.csv)
+[Munged Data](https://github.com/dbdesign-students-spring2024/3-spreadsheet-analysis-VideoStorms/blob/main/data/clean_data.csv)
 
 [Spreadsheet File](https://github.com/dbdesign-students-spring2024/3-spreadsheet-analysis-mayanesen/blob/main/data/nypd_arrest_data.xls)
 
