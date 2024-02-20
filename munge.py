@@ -1,5 +1,9 @@
 # place your code to clean up the data file below.
-f = open("data/NYPD_Arrest_Data__Year_to_Date__20240213.csv", "r")
+
+import urllib.request
+urllib.request.urlretrieve('https://data.cityofnewyork.us/resource/uip8-fykc.csv', 'data/dataArrests.csv')
+
+f = open("data/dataArrests.csv", "r")
 f_new = open("data/clean_data.csv", "w")
 
 # HEADER LINE
