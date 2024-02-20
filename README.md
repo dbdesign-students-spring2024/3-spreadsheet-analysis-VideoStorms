@@ -68,6 +68,6 @@ Here is the attached graph
 
 And here are the attached Pie Charts that can allow you to asertain which crime was most commited, where the most arrests occur, what age ranges commit the most crimes and in what seasons are the most crimes commited.
 
-![Graph2](https://github.com/dbdesign-students-spring2024/3-spreadsheet-analysis-VideoStorms/blob/main/graph2.jpeg)
+![Graph2](https://github.com/dbdesign-students-spring2024/3-spreadsheet-analysis-VideoStorms/blob/main/graph2.png)
 
 
