@@ -41,7 +41,7 @@ Below are the links to our data files:
 
 [Munged Data](https://github.com/dbdesign-students-spring2024/3-spreadsheet-analysis-VideoStorms/blob/main/data/clean_data.csv)
 
-[Spreadsheet File](https://github.com/dbdesign-students-spring2024/3-spreadsheet-analysis-mayanesen/blob/main/data/nypd_arrest_data.xls)
+[Spreadsheet File](https://github.com/dbdesign-students-spring2024/3-spreadsheet-analysis-VideoStorms/blob/main/data/clean_data.xlsx)
 
 # Analysis
 
